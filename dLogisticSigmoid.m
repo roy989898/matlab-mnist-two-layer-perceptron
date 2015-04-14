@@ -4,7 +4,7 @@ function y = dLogisticSigmoid(x)
 % INPUT:
 % x     : Input vector.
 %
-% OUTPUT:
+% OUTPUT:asdasdasdasd
 % y     : Output vector where the derivative of the logistic sigmoid was
 % applied element by element.
 %
